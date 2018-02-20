@@ -1,4 +1,4 @@
-## Digirati
+## Digirati - https://digirati.com
 
 A digital consultancy that takes a progressive 'open innovation' approach to building digital products and services. This involves strong participation in the wider ecosystems of technologies, communities and practices that sustain the long term success of our solutions.
 
