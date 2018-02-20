@@ -20,14 +20,14 @@ Tom Crane - Technical Director
 
 ## Contact
 
-| London |
+|London|
 |-|
-|Dunstan House |
-|14A St Cross St |
-|London EC1N 8XA |
-|T: 0845 643 4370 |
+|Dunstan House|
+|14A St Cross St|
+|London EC1N 8XA|
+|T: 0845 643 4370|
 |F: 0870 1207722|
-|contact@digirati.com |
+|contact@digirati.com|
 
 |GLASGOW HEADQUARTERS|
 |-|
